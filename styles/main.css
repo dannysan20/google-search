@@ -7,4 +7,5 @@ display: inline-block;
 line-height: 24px;
 outline: none;
 vertical-align: middle;
+float: right;
 }
