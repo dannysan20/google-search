@@ -1,14 +1,10 @@
-ul {
-    list-style-type: none;
-    margin: 22px 0 0 0;
-    padding: 0;
+li.fright{
+font-family: arial,sans-serif;
+font-size: 13px;
+color: rgba(0,0,0,0.87);
+text-decoration: none;
+display: inline-block;
+line-height: 24px;
+outline: none;
+vertical-align: middle;
 }
-li {
-    display: inline;
-    font-family: "Arial", "Sans-Serif";
-    font-size: 13px;
-    
-}
-li.fright {
-    float: right;
-    padding-right: 15px;
