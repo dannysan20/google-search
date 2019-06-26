@@ -1,3 +1,10 @@
-li{
-float: right;
+.fright{
+font-family: arial,sans-serif;
+font-size: 13px;
+color: rgba(0,0,0,0.87);
+text-decoration: none;
+display: inline-block;
+line-height: 24px;
+outline: none;
+vertical-align: middle;
 }
